@@ -113,6 +113,6 @@ ul{
 {
   #card,#bottom-left-section,#bottom-right-section{
     width:100%;
-    height:auto;
+    height:100%;
   }
 }
